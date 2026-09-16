@@ -1,0 +1,6 @@
+{
+  "name": "Click Revestimientos",
+  "description": "Catálogo digital de revestimientos en seco en Reconquista, Santa Fe. Rápido · Práctico · Duradero. Consultas y presupuestos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
